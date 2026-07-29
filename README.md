@@ -49,8 +49,8 @@ La carrera me dio una base fuerte en **modelado de procesos** (BPMN 2.0, ArchiMa
 ## 📊 GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=carloshha12&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshha12&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
