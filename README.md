@@ -39,7 +39,7 @@ La carrera me dio una base fuerte en **modelado de procesos** (BPMN 2.0, ArchiMa
 
 ## 📌 En qué estoy ahora
 
-- Construyendo una API REST con Node.js, Express y MongoDB, desplegada y documentada.
+-TERMINADO- Construyendo una API REST con Node.js, Express y Postgress, desplegada y documentada.
 - Aprendiendo sobre Analisis de Datos.
 - Terminando un tracker de correlativas en React para el plan de estudios de la LSI.
 - Buscando mi primera posición junior/trainee de back end.
