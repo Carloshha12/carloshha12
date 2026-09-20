@@ -10,11 +10,11 @@
 
 Soy argentino, estudiante de 4.º año de **Licenciatura en Sistemas de Información** en la **Universidad Nacional del Comahue**, en Neuquén.
 
-Estoy enfocado en **desarrollo back end**: construyo APIs REST con **Node.js** y **Express**, y trabajo tanto con bases de datos **SQL** (modelado relacional, diagramas ER, normalización) como **NoSQL** con MongoDB.
+Estoy enfocado en **desarrollo back end** con **Node.js** y **Express**, y trabajo tanto con bases de datos **SQL** (modelado relacional, diagramas ER, normalización) como **NoSQL** con MongoDB.
 
-Del lado del front manejo **React** y JavaScript, a demas de CSS.También me interesa mucho el análisis de datos. Me gusta la parte del back end donde los datos son el centro: modelar bien un esquema, escribir consultas SQL que respondan preguntas reales, armar pipelines de ingesta y transformación.
+Del lado del front manejo **React** y JavaScript vanilla, a demas de CSS.También me interesa mucho el análisis de datos. Me gusta la parte del back end donde los datos son el centro: modelar bien un esquema, escribir consultas SQL que respondan preguntas reales, armar pipelines de ingesta y transformación.
 
-La carrera me dio una base fuerte en **modelado de procesos** (BPMN 2.0, ArchiMate) e **ingeniería de requerimientos**, incluyendo el diseño de arneses de prueba que conectan la historia de usuario con la validación del código. Me interesa escribir aprender y continuar formandome.
+La carrera me dio una base fuerte en **modelado de procesos** (BPMN 2.0, ArchiMate) e **ingeniería de requerimientos**, incluyendo el diseño de arneses de prueba que conectan la historia de usuario con la validación del código. Me interesa aprender y continuar formandome.
 
 ---
 
@@ -34,15 +34,6 @@ La carrera me dio una base fuerte en **modelado de procesos** (BPMN 2.0, ArchiMa
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
-
-## 📌 En qué estoy ahora
-
--TERMINADO- Construyendo una API REST con Node.js, Express y Postgress, desplegada y documentada.
-- Aprendiendo sobre Analisis de Datos.
-- Terminando un tracker de correlativas en React para el plan de estudios de la LSI.
-- Buscando mi primera posición junior/trainee de back end.
 
 ---
 
